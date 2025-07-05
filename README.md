@@ -1,2 +1,2 @@
-# IL2CppInspectorPro
-IL2CppInspectorPro by RikkoMatsumatoOfficial
+# IL2CppInspectorProInstaller
+IL2CppInspectorProInstaller by RikkoMatsumatoOfficial
